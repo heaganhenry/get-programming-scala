@@ -3,7 +3,7 @@
 // 10% discount if the price is at least $50 but less than $100
 // 15% discount if the price is at least $100
 
-object Lesson5 {
+object LessonFive {
     def applyDiscount(price: Double): Double = {
         val discount = {
             if (price < 50) 1

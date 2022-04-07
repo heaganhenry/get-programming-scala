@@ -1,6 +1,6 @@
 // Modify your mark function to keep track of both the lowest and the highest mark computed so far.
 
-object Lesson4 {
+object LessonFour {
     var marksSum = 0
     var marksCount = 0
 
