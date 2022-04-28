@@ -13,8 +13,7 @@ project/metals.sbt
 .tasty
 
 # sbt
-project/project/
-project/target/
+project/
 target/
 
 # eclipse
